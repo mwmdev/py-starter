@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1.0.30",
+    "task-master-ai": "^0.17.1"
+  }
+}
