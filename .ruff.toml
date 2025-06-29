@@ -1,0 +1,8 @@
+# Ruff configuration file
+# This file is optional as settings are already in pyproject.toml
+# But can be used for project-specific overrides
+
+extend = "pyproject.toml"
+
+[lint]
+# Additional project-specific rules can be added here

@@ -68,6 +68,10 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -195,4 +199,4 @@ build/Release
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test 
+.vscode-test
